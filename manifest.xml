@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Manifest>
+  <ID>window_tv</ID>
+  <Name>深空电视：可能是用来看视频的</Name>
+  <Author>Local Mod Project</Author>
+  <ModVersion>0.4.2</ModVersion>
+  <Description>深空电视——把电脑上任意窗口的画面直接搬进店里那台电视播放。捕获在游戏进程内完成，不需要任何外部程序，也不用先开别的软件。电视由送货员送到店里，打开后拧下面那个旋钮挑要投的窗口，拧上面那个调大小。开机有一道亮线展开，没连上时是彩条测试卡，窗口掉了会显示雪花并提示信号中断，恢复后自己接回来。右下那根老式拨杆开关拨到右边就是设置，可以就地开关扫描线、雪花、开机动画和音效。画面下面还有一把挂锁，扣上以后按 ESC 只会收起别的纸片和面板，电视留在原地；游戏菜单、别的机器和别的窗口照常响应。再点一下解锁就恢复原样。</Description>
+  <GameVersions><Version>100-Rev6</Version></GameVersions>
+  <Prerequisites />
+  <Assemblies><Assembly>WindowTV.dll</Assembly></Assemblies>
+  <Capabilities>
+    <Capability>native</Capability>
+  </Capabilities>
+</Manifest>

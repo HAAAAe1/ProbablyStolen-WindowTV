@@ -1,0 +1,7 @@
+* text=auto
+*.cs text diff=csharp
+*.csproj text
+*.xml text
+*.md text
+*.py text
+*.png binary
